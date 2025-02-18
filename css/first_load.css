@@ -375,8 +375,8 @@ p {
 .section171-inner__p1::before, .section172-inner__p1::before, .section173-inner__p1::before,
 .section181-inner__p1::before, .section182-inner__p1::before, .section183-inner__p1::before {
     position: absolute;
-    margin-left: -55px;
-    font-family: "Arial Unicode MS", "Lucida Sans Unicode", "DejaVu Sans", "Quivira", "Symbola", "Code2000", ;
+    margin-left: -54px;
+    font-family: "Arial Unicode MS", "Lucida Sans Unicode", "DejaVu Sans", "Quivira", "Symbola", "Code2000", serif;
 }
 
 .section1-inner__p1::before { content: '1 \2192' }
